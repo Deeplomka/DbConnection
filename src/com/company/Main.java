@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-//        String connectionUrl = "jdbc:postgresql://localhost:5432/simpledb";
+        String connectionUrl = "jdbc:postgresql://localhost:5432/simpledb";
 //        Connection con = null;
 //        ResultSet rs = null;
 //        Statement stmt = null;
